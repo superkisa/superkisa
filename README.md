@@ -1,4 +1,12 @@
-## Hi there 👋
+# Hi there 🫨
+
+My CV ⇒ [ru](https://github.com/superkisa/superkisa/blob/main/cv-ru.pdf)
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/superkisa/count.svg" />
+</p>
 
 <!--
 **superkisa/superkisa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
